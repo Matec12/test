@@ -1,0 +1,5 @@
+# ignore folder named '.vscode'
+.vscode/
+
+# ignore folder named 'text'
+files.txt
